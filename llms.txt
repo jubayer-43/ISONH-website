@@ -1,0 +1,24 @@
+# ISONH
+
+Website: https://www.isonh.2bd.net/
+
+> ISONH is an online education platform ("Education Beyond Borders") offering affordable, practical courses. Learners buy a course by messaging the team on WhatsApp.
+
+## Courses
+
+- HSC ক,খ – 650 BDT: structured preparation for HSC ক and খ, self-paced, with direct WhatsApp support.
+- Ethical Hacking – 700 BDT: cyber security fundamentals and hands-on practice, starting from zero.
+- HSC Academic – 1000 BDT: complete HSC academic syllabus preparation in one place.
+
+## How to enroll
+
+1. Open the home page and go to the Courses section.
+2. Press "Buy Now" on the chosen course. WhatsApp opens (+8801617926055) with a ready message naming the course and its price.
+3. Send the message. The team replies with payment and enrollment instructions.
+
+## Contact and community
+
+- WhatsApp (direct chat): https://wa.me/8801617926055
+- Facebook page: https://www.facebook.com/profile.php?id=61576628971233
+- Telegram channel: https://t.me/ISONH_Learn_Elite
+- WhatsApp channel: https://whatsapp.com/channel/0029Vb9hjJ06rsQx86QZkC01
